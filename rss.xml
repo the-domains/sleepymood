@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sleepy Mood]]></title>
         <description><![CDATA[Sleepy Mood]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sleepymood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 19:21:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 23:17:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sleepymood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>I love this. This is a really great system. Welcome to SleepyMood.</p></article>]]></description>
+            <link>https://thegrid.ai/sleepymood/welcome/index.html</link>
+            <guid isPermaLink="false">9dd3d18e-a222-40cb-8afe-992c8d8a7593</guid>
+            <pubDate>Tue, 03 Nov 2015 23:17:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/sleepymood/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">e9d47b1e-bb4d-444b-8163-d5c0a9a0361c</guid>
             <pubDate>Tue, 03 Nov 2015 19:20:48 GMT</pubDate>
         </item>
