@@ -1,7 +1,7 @@
 name: SleepyMood
 favicon: null
-layout_spectrum: 0.4479801601264626
-typography_spectrum: 0.5
+layout_spectrum: 0.44103
+typography_spectrum: 0
 title: Sleepy Mood
 cta:
   domain: null
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
+    - '#0d0f10'
+    - '#c3d6de'
+    - '#a1b7c0'
+    - '#3e4c50'
   brandStrength: 0.5
   lightness: 0.003327557584270835
   saturation: 0.24823271040804684
